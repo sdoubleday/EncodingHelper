@@ -1,0 +1,1 @@
+Get and Set the encoding of files. Based on https://gist.github.com/jpoehls/2406504, modified with CmdletBinding and pipeline input.
